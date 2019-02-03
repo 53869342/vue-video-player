@@ -1,21 +1,5 @@
-# video
+vue-video-player官网(https://github.com/surmon-china/vue-video-player)
 
-> A Vue.js project
+在windows上安装FFmpeg程序（https://www.cnblogs.com/new-ass/p/7704040.html）
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Windows 使用ffmpeg将MP4视频转换为m3u8格式（https://blog.csdn.net/qq_36623327/article/details/83007456）
